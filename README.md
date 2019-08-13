@@ -5,7 +5,7 @@ Our dataset consists of twenty two 360-degree videos capturing activities from 2
 
 Details of each video are described in following table:
 
-|    |                                                  | Filename (snapshot)  | Animal             | In US | Duration | FPS |
+|    |      YouTube link                                | Filename (snapshot)  | Animal             | In US | Duration | FPS |
 |----|--------------------------------------------------|----------------------|--------------------|-------|----------|-----|
 | 1  | https://www.youtube.com/watch?v=2bpICIClAIg      | elephant.mp4         | Elephant           | No    | 2:49     | 30  |
 | 2  | https://www.youtube.com/watch?v=rjQ5-UHQWC0      | wolf.mp4             | Wolf               | Yes   | 2:05     | 25  |
