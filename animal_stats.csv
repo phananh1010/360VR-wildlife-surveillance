@@ -1,7 +1,5 @@
 ,,Filename (snapshot),Animal,In US,Duration,FPS,Resolution
-1,https://www.youtube.com/watch?v=enQQUgb6UkI,bear2,Bear,Yes,1:02,30,3840x1920
 2,https://www.youtube.com/watch?v=2bpICIClAIg,elephant,Elephant,No,2:49,30,3840x2048
-3,https://www.youtube.com/watch?v=v4xbMpmKgYs,elk,Elk,Yes,1:45,30,2204x1240
 4,https://www.youtube.com/watch?v=rjQ5-UHQWC0,wolf,Wolf,Yes,2:05,25,3840x1920
 5,https://www.youtube.com/watch?v=7AkbUfZjS5k,kangaroo,Kangaroo,No,0:25,30,5760x2880
 6,https://www.youtube.com/watch?v=Ynka2out5C0,giraffe_zebra,"Giraffe, Zebra",No,3:40,30,3840x2048
@@ -21,4 +19,6 @@
 20,https://www.youtube.com/watch?v=EefzOjxBT8E,vox,Fox,Yes,4:24,24,3840x1920
 21,https://www.youtube.com/watch?v=wei9RVB4_fI,vulture,Vulture,Yes,1:48,30,5120x2560
 22,https://www.youtube.com/watch?v=rtPkaCbL8Kg,elk_horse,"Elk, Horse",Yes,5:02,30,3840x2048
+23,https://www.youtube.com/watch?v=rgQZ1tpIZ6I&t=5s,Squirrel2,Squirrel,Yes,1:19,24,5120x2880
+24,https://www.youtube.com/watch?v=rrjLu4regUQ,whiteibis,WhiteIbis,Yes,4:02,30,3840x1920
 ,,,Average,,2:37,,
