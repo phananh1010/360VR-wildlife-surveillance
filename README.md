@@ -1,7 +1,7 @@
 # 360-Degree Wildlife Video Dataset for Surveillance
 This README file contains the instructions to use our wildfife 360-degree video dataset.
 
-Our dataset consists of twenty 360 wildlife videos capturing activities from 21 different types of animals in the wild. The video length varies from 19 seconds up to more than 8 minutes. The animals are recorded from static 360 cameras in 4K resolution or higher.
+Our dataset consists of twenty 360 wildlife videos capturing activities from 22 different types of animals in the wild. The video length varies from 19 seconds up to more than 8 minutes. The animals are recorded from static 360 cameras in 4K resolution or higher.
 
 Details of each video are described in the following table:
 
